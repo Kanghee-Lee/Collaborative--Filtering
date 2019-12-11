@@ -1,4 +1,4 @@
-# Collaborative-Filtering
+# Job Recommendation using Collaborative-Filtering
 Item-based Collaborative Filtering algorithms written in Python
 * Used **Pearson Correlation** for similarity
 
